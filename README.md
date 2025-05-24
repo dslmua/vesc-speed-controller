@@ -32,7 +32,9 @@ This project allows you to control speed modes of an electric scooter or any dev
 | Button Back    | 13         | Decrease speed mode button    |
 | Button ON/OFF  | 12         | Power toggle button           |
 | Button Next    | 14         | Increase speed mode button    |
+|----------------|------------|-------------------------------|
 | TFT Display    | See TFT_eSPI config           | ST7789 display                |
+|----------------|------------|-------------------------------|
 | VESC RX        | GPIO1 (TX0) | ESP32 TX → VESC RX            |
 | VESC TX        | GPIO3 (RX0) | ESP32 RX → VESC TX            |
 | GND            | GND        | Common ground                 |
@@ -68,4 +70,4 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Created by [Your Name or Nickname]
+Created by [dslmua]
